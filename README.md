@@ -10,11 +10,11 @@
 ## Integrantes
 [_Nicolas Viegas_]: https://github.com/nicolasviegas
 [_Tomas Rossi_]: https://github.com/TomasR264
-[_Matias Rizzato Busta_]: https://github.com/matiasrizzatobusta
+
 
 * [_Nicolas Viegas_] 
 * [_Tomas Rossi_]
-* [_Matias Rizzato Busta_]
+
 
 ## Material utilizado
 [_Guia Sockets_]:https://docs.google.com/document/d/17E5ge5eC6wRAeh5AWETRBB7UrmqBQ6i0JjfUD7KRY68/edit
